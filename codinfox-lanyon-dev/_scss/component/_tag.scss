@@ -42,9 +42,10 @@
       padding: 0;
       li {
         @include transition(all .1s ease-in-out);
-        padding: 0 1rem;
+        padding: 0 0.5rem;
         &:hover {
           list-style-type: disc;
+          font-size: 0.5rem;
           padding: 0 .5rem;
         }
       }

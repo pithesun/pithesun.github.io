@@ -1,18 +1,17 @@
 ---
 layout: page
 title: About
-permalink: /about/
+
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+<p class="message">
+  개발 공부하는 대학생의 소소한 하루를 이야기합니다.<br>
+  책과 음악, 자유를 사랑합니다. <br>
+  <br>
+  더 많은 이야기가 보고 싶다면<br> 
+  <a href = "https://blog.naver.com/wonjh0730">쥬의 우당탕탕 살아가는 이야기</a>
+</p> 
+  
